@@ -43,7 +43,7 @@ class Abdelkarim:
 
     def focus(self):
         return "Building scalable backend systems 🚀"
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="center">
 
