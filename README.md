@@ -1,53 +1,45 @@
 <div align="center" width="50%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%"/> 
-<br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h1>Hi 👋, I'm Abdelkarim</h1>
-<h3>🐍 Python Developer | Backend Engineer | Problem Solver</h3>
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <be>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social">
-</a>
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
----
+<hr></hr>
 
-## 🚀 About Me
-
-- 🧑‍💻 أنا **عبدالكريم**، مطور Python  
-- 🔥 مهتم بـ **Backend Development & Automation**  
-- 🧠 أحب حل المشاكل والخوارزميات  
-- ⚙️ أعمل على بناء سكريبتات وأدوات مفيدة  
-- 🌱 أتعلم حالياً: **Django / FastAPI / APIs**
-
----
-
-## 🛠️ Tech Stack
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-
----
-
-## 💻 My Tools
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```python
+# tools_I_use organized
+
 class Abdelkarim:
     def __init__(self):
-        self.languages = ["Python", "SQL", "Bash"]
-        self.frameworks = ["Django", "FastAPI"]
-        self.databases = ["SQLite", "PostgreSQL"]
-        self.tools = ["Git", "Linux", "VS Code"]
+        self.programming_languages = {"Python"}
+        self.backend = {"Django", "FastAPI"}
+        self.database = {"PostgreSQL", "SQLite"}
+        self.systems = {"Linux"}
+        self.tools = {"Git", "VSCode", "Bash"}
 
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
+    def focus(self):
+        return "Building scalable backend systems 🚀"
