@@ -17,33 +17,7 @@
 
 <hr></hr>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-```python
-# tools_I_use organized
-
-class Abdelkarim:
-    def __init__(self):
-        self.programming_languages = {"Python"}
-        self.backend = {"Django", "FastAPI"}
-        self.database = {"PostgreSQL", "SQLite"}
-        self.systems = {"Linux"}
-        self.tools = {"Git", "VSCode", "Bash"}
-
-    def focus(self):
-        return "Building scalable backend systems 🚀"
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -72,3 +46,32 @@ class Abdelkarim:
 </a>
 
 </p>
+
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+```python
+# tools_I_use organized
+
+class Abdelkarim:
+    def __init__(self):
+        self.programming_languages = {"Python"}
+        self.backend = {"Django", "FastAPI"}
+        self.database = {"PostgreSQL", "SQLite"}
+        self.systems = {"Linux"}
+        self.tools = {"Git", "VSCode", "Bash"}
+
+    def focus(self):
+        return "Building scalable backend systems 🚀"
