@@ -101,7 +101,7 @@ class AbdelkarimAouk:
         self.languages = ["Python", "C#", "JavaScript", "HTML", "CSS"]
         self.frameworks = ["Django", "FastAPI", "ASP.NET"]
         self.databases = ["PostgreSQL", "SQLite"]
-        self.tools = ["Git", "VS Code", "Linux", "Bash"]
+        self.tools = ["Git", "VS Code", "Linux", "Bash", "Cloud"]
 
     def focus(self):
         return "Building scalable backend systems with Python 🚀"
