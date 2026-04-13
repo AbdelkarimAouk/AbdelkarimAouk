@@ -22,6 +22,13 @@
 
 ---
 
+<!-- Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Backend+Engineer+%F0%9F%9A%80;Web+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%94%A5" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 Hi 👋 I'm **Abdelkarim Aouk**, a passionate **Web Developer & Programmer** specialized in **Python** 🐍.
@@ -32,58 +39,6 @@ Hi 👋 I'm **Abdelkarim Aouk**, a passionate **Web Developer & Programmer** spe
 - 🌱 Always learning and improving
 - 💡 Interested in **APIs, system design, and performance**
 - 🚀 Goal: Build scalable and impactful applications
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="mailto:abdelkarimaouk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/abdelkarimaouk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🐍 Core Language (Specialty)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-
----
-
-### 💻 Other Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-### ⚙️ Frameworks & Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
----
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
----
-
-### 🧰 Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
