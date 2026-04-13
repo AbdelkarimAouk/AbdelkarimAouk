@@ -22,7 +22,6 @@
 
 ---
 
-<!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Backend+Engineer+%F0%9F%9A%80;Web+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%94%A5" />
 </p>
@@ -48,7 +47,7 @@ Hi 👋 I'm **Abdelkarim Aouk**, a passionate **Web Developer & Programmer** spe
 class AbdelkarimAouk:
     def __init__(self):
         self.main_language = "Python 🐍"
-        self.languages = ["Python", "C#", "JavaScript", "HTML", "CSS"]
+        self.languages = ["Python", "C#", "JavaScript", "HTML", "CSS", "C++", "Java"]
         self.frameworks = ["Django", "FastAPI", "ASP.NET"]
         self.databases = ["PostgreSQL", "SQLite"]
         self.tools = ["Git", "VS Code", "Linux", "Bash"]
