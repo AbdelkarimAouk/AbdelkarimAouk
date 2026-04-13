@@ -1,4 +1,4 @@
-# 🚀 Abdelkarim Aouk | Web Developer & Programmer
+# 🚀 Abdelkarim Aouk | Web Developer & Programmer Python
 
 <div align="center" width="50%">
 
